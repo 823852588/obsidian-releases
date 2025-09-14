@@ -18475,8 +18475,8 @@
   {
     "id": "smart-reminder",
     "name": "Smart Reminder",
-    "author": "Lang",
-    "description": "Intelligent schedule reminder plug-in that supports task entry, scheduled reminders, project management and AI plan generation",
+    "author": "浪里小白龙",
+    "description": "智能日程提醒插件，支持任务录入、定时提醒、项目管理和AI计划生成",
     "repo": "https://github.com/823852588/smart-reminder"
   }
 ]
